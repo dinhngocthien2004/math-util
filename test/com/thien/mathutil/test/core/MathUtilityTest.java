@@ -50,7 +50,7 @@ public class MathUtilityTest {
         Assert.assertEquals(2, MathUtil.getFactorial(2)); // tui muốn 1! = 2
         Assert.assertEquals(6, MathUtil.getFactorial(3)); // tui muốn 1! = 6
         Assert.assertEquals(24, MathUtil.getFactorial(4)); // tui muốn 1! = 24
-        Assert.assertEquals(20, MathUtil.getFactorial(5)); // tui muốn 1! = 120
+        Assert.assertEquals(120, MathUtil.getFactorial(5)); // tui muốn 1! = 120
         Assert.assertEquals(720, MathUtil.getFactorial(6)); // tui muốn 1! = 720
     }
     
