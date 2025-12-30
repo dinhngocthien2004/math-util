@@ -31,7 +31,7 @@ public class MathUtilDDTTest {
             {3, 6},
             {4, 24},
             {5, 120},
-            {6, 820}
+            {6, 720}
         };
         //int a[] = {5, 10, 15, 20}; mảng 1 chiều
         //int a[][] = {{1, 2}, {3, 4}, {5, 6}};  mảng 2 chiều
